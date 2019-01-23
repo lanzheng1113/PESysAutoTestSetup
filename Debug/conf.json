@@ -1,0 +1,14 @@
+{
+"conf_update":
+	{
+		"url" : "http://192.168.1.139/ATFrameWork/conf.json"
+	},
+"pe_name" : "PE64.WIM",
+"pe_wim_url": "http://192.168.1.139/ATFrameWork/PE64.WIM",
+"pe_wim_md5": "986206E5DE747D73254C7B435B6D3553",
+"sdi_url" : "http://192.168.1.139/ATFrameWork/BOOT.SDI",
+"sdi_md5" : "9106857D1B8712BA3FEE8A4BACE8B9E9",
+"boot_entry_name" : "PE TEST X64",
+"boot_entry_guid" : "{CF10CE22-E86A-476B-A239-143CCD43F954}",
+"boot_device_guid" : "{7456BB63-5FCD-4BB6-B415-D08C10F51790}"
+}
